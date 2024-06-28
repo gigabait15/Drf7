@@ -1,0 +1,1716 @@
+[2024-06-25 20:19:46,141: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:19:48,140: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:19:49,287: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:19:50,166: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:19:50,738: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:19:50,795: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:19:51,838: INFO/MainProcess] beat: Starting...
+[2024-06-25 20:20:46,187: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 2.0 seconds...
+[2024-06-25 20:20:46,191: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 2.0 seconds...
+[2024-06-25 20:20:46,193: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 2.0 seconds...
+[2024-06-25 20:20:46,194: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 2.0 seconds...
+[2024-06-25 20:20:46,194: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 2.0 seconds...
+[2024-06-25 20:20:46,196: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 2.0 seconds...
+[2024-06-25 20:20:48,190: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:48,191: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:48,193: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:48,197: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:48,197: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:48,197: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:48,198: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 4.0 seconds...
+[2024-06-25 20:20:52,194: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 6.0 seconds...
+[2024-06-25 20:20:52,197: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 6.0 seconds...
+[2024-06-25 20:20:52,201: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 6.0 seconds...
+[2024-06-25 20:20:52,203: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 6.0 seconds...
+[2024-06-25 20:20:58,200: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 8.0 seconds...
+[2024-06-25 20:20:58,200: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 8.0 seconds...
+[2024-06-25 20:20:58,204: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 8.0 seconds...
+[2024-06-25 20:20:58,205: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 8.0 seconds...
+[2024-06-25 20:20:58,207: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 8.0 seconds...
+[2024-06-25 20:21:06,205: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 10.0 seconds...
+[2024-06-25 20:21:06,209: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 10.0 seconds...
+[2024-06-25 20:21:06,210: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 10.0 seconds...
+[2024-06-25 20:21:06,211: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 10.0 seconds...
+[2024-06-25 20:21:06,211: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 10.0 seconds...
+[2024-06-25 20:21:06,212: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 10.0 seconds...
+[2024-06-25 20:21:16,212: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:16,212: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:16,215: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:16,217: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:16,218: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:16,218: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:16,219: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 12.0 seconds...
+[2024-06-25 20:21:28,218: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 14.0 seconds...
+[2024-06-25 20:21:28,218: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 14.0 seconds...
+[2024-06-25 20:21:28,223: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 14.0 seconds...
+[2024-06-25 20:21:28,223: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 14.0 seconds...
+[2024-06-25 20:21:28,225: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 14.0 seconds...
+[2024-06-25 20:21:28,225: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 14.0 seconds...
+[2024-06-25 20:21:42,229: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:42,229: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:42,233: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:42,233: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:42,234: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:42,234: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:42,235: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 16.0 seconds...
+[2024-06-25 20:21:58,240: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:21:58,240: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:21:58,242: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:21:58,244: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:21:58,245: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:21:58,246: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:21:58,246: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 18.0 seconds...
+[2024-06-25 20:22:16,252: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:16,252: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:16,253: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:16,254: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:16,255: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:16,256: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:16,256: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 20.0 seconds...
+[2024-06-25 20:22:36,267: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 22.0 seconds...
+[2024-06-25 20:22:36,267: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 22.0 seconds...
+[2024-06-25 20:22:36,267: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 22.0 seconds...
+[2024-06-25 20:22:36,268: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 22.0 seconds...
+[2024-06-25 20:22:36,268: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 22.0 seconds...
+[2024-06-25 20:22:36,269: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 22.0 seconds...
+[2024-06-25 20:22:58,282: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:22:58,282: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:22:58,282: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:22:58,282: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:22:58,282: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:22:58,283: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:22:58,283: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 24.0 seconds...
+[2024-06-25 20:23:22,296: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:22,296: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:22,296: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:22,297: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:22,297: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:22,298: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:22,298: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 26.0 seconds...
+[2024-06-25 20:23:48,311: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:23:48,313: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:23:48,311: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:23:48,313: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:23:48,314: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:23:48,314: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:23:48,315: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 28.0 seconds...
+[2024-06-25 20:24:16,328: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:16,329: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:16,329: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:16,330: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:16,330: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:16,330: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:16,330: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 30.0 seconds...
+[2024-06-25 20:24:46,346: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:24:46,347: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:24:46,348: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:24:46,348: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:24:46,348: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:24:46,348: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:24:46,351: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:18,370: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:18,370: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:18,370: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:18,371: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:18,371: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:50,390: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:50,390: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:50,390: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:50,390: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:50,392: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:25:50,393: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:22,409: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:22,410: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:22,412: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:22,412: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:22,412: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:54,432: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:54,432: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:54,434: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:54,434: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:54,435: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:26:54,435: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,456: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,456: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,456: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,456: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,456: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,456: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:26,458: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,478: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,478: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,478: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,478: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,479: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,479: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:27:58,479: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:28:30,501: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:28:30,501: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:28:30,501: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:28:30,501: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:28:30,677: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,522: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,522: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,522: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,522: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,524: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,524: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:02,865: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:34,540: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:34,541: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:34,542: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:34,543: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:34,543: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:29:34,890: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,558: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,561: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,562: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,564: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,569: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,733: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:06,910: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,579: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,580: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,583: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,583: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,590: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,853: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:30:38,929: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,597: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,599: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,599: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,600: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,606: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,875: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:10,952: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,617: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,618: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,618: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,619: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,624: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,925: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:31:42,974: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,636: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,637: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,637: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,644: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,810: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,945: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:14,994: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:46,657: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:46,657: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:46,658: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:46,661: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:46,830: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:47,137: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:32:47,138: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:18,679: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:18,679: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:18,681: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:18,847: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:18,852: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:19,158: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:19,329: ERROR/MainProcess] beat: Connection error: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.. Trying again in 32.0 seconds...
+[2024-06-25 20:33:39,802: CRITICAL/MainProcess] beat raised exception <class 'kombu.exceptions.OperationalError'>: OperationalError("[Errno 13] Permission denied: b'celerybeat-schedule.dir'")
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\virtual\base.py", line 951, in create_channel
+    return self._avail_channels.pop()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: pop from empty list
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\utils\functional.py", line 318, in retry_over_time
+    return fun(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 934, in _connection_factory
+    self._connection = self._establish_connection()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 860, in _establish_connection
+    conn = self.transport.establish_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\virtual\base.py", line 975, in establish_connection
+    self._avail_channels.append(self.create_channel(self))
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\virtual\base.py", line 953, in create_channel
+    channel = self.Channel(connection)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\redis.py", line 744, in __init__
+    self.client.ping()
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\commands\core.py", line 1217, in ping
+    return self.execute_command("PING", **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 545, in execute_command
+    return conn.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\retry.py", line 46, in call_with_retry
+    return do()
+           ^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 546, in <lambda>
+    lambda: self._send_command_parse_response(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 522, in _send_command_parse_response
+    return self.parse_response(conn, command_name, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 562, in parse_response
+    response = connection.read_response()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\connection.py", line 536, in read_response
+    raise response
+redis.exceptions.ResponseError: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 472, in _reraise_as_library_errors
+    yield
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 459, in _ensure_connection
+    return retry_over_time(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\utils\functional.py", line 332, in retry_over_time
+    sleep(1.0)
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\apps\beat.py", line 158, in _sync
+    service.sync()
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 656, in sync
+    self.scheduler.close()
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 603, in close
+    self._store.close()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\shelve.py", line 146, in close
+    self.dict.close()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\dbm\dumb.py", line 275, in close
+    self._commit()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\dbm\dumb.py", line 130, in _commit
+    with self._io.open(self._dirfile, 'w', encoding="Latin-1") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: b'celerybeat-schedule.dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\apps\beat.py", line 113, in start_scheduler
+    service.start()
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 643, in start
+    interval = self.scheduler.tick()
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 353, in tick
+    self.apply_entry(entry, producer=self.producer)
+                                     ^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\utils\objects.py", line 40, in __get__
+    return super().__get__(instance, owner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\functools.py", line 1001, in __get__
+    val = self.func(instance)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 496, in producer
+    return self.Producer(self._ensure_connected(), auto_declare=False)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 479, in _ensure_connected
+    return self.connection.ensure_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 406, in ensure_connection
+    self._ensure_connection(*args, **kwargs)
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 458, in _ensure_connection
+    with ctx():
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 476, in _reraise_as_library_errors
+    raise ConnectionError(str(exc)) from exc
+kombu.exceptions.OperationalError: [Errno 13] Permission denied: b'celerybeat-schedule.dir'
+[2024-06-25 20:33:40,010: WARNING/MainProcess] Traceback (most recent call last):
+[2024-06-25 20:33:40,011: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\virtual\base.py", line 951, in create_channel
+[2024-06-25 20:33:40,012: WARNING/MainProcess]     
+[2024-06-25 20:33:40,012: WARNING/MainProcess] return self._avail_channels.pop()
+[2024-06-25 20:33:40,012: WARNING/MainProcess]  
+[2024-06-25 20:33:40,012: WARNING/MainProcess]  
+[2024-06-25 20:33:40,012: WARNING/MainProcess]  
+[2024-06-25 20:33:40,012: WARNING/MainProcess]  
+[2024-06-25 20:33:40,012: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess]  
+[2024-06-25 20:33:40,013: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,013: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,013: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,013: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,013: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,014: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,015: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,015: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,015: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,015: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,015: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,015: WARNING/MainProcess] IndexError
+[2024-06-25 20:33:40,016: WARNING/MainProcess] : 
+[2024-06-25 20:33:40,016: WARNING/MainProcess] pop from empty list
+[2024-06-25 20:33:40,016: WARNING/MainProcess] During handling of the above exception, another exception occurred:
+[2024-06-25 20:33:40,017: WARNING/MainProcess] Traceback (most recent call last):
+[2024-06-25 20:33:40,019: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\utils\functional.py", line 318, in retry_over_time
+[2024-06-25 20:33:40,019: WARNING/MainProcess]     
+[2024-06-25 20:33:40,019: WARNING/MainProcess] return fun(*args, **kwargs)
+[2024-06-25 20:33:40,019: WARNING/MainProcess]  
+[2024-06-25 20:33:40,020: WARNING/MainProcess]  
+[2024-06-25 20:33:40,020: WARNING/MainProcess]  
+[2024-06-25 20:33:40,020: WARNING/MainProcess]  
+[2024-06-25 20:33:40,020: WARNING/MainProcess]  
+[2024-06-25 20:33:40,020: WARNING/MainProcess]  
+[2024-06-25 20:33:40,020: WARNING/MainProcess]  
+[2024-06-25 20:33:40,021: WARNING/MainProcess]  
+[2024-06-25 20:33:40,021: WARNING/MainProcess]  
+[2024-06-25 20:33:40,021: WARNING/MainProcess]  
+[2024-06-25 20:33:40,021: WARNING/MainProcess]  
+[2024-06-25 20:33:40,021: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,021: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,022: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,025: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,026: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,026: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,028: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,029: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,029: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,029: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,029: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,029: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,029: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,030: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,030: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,030: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,030: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,030: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,030: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,031: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,031: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 934, in _connection_factory
+[2024-06-25 20:33:40,031: WARNING/MainProcess]     
+[2024-06-25 20:33:40,032: WARNING/MainProcess] self._connection = self._establish_connection()
+[2024-06-25 20:33:40,032: WARNING/MainProcess]  
+[2024-06-25 20:33:40,032: WARNING/MainProcess]  
+[2024-06-25 20:33:40,032: WARNING/MainProcess]  
+[2024-06-25 20:33:40,033: WARNING/MainProcess]  
+[2024-06-25 20:33:40,033: WARNING/MainProcess]  
+[2024-06-25 20:33:40,033: WARNING/MainProcess]  
+[2024-06-25 20:33:40,033: WARNING/MainProcess]  
+[2024-06-25 20:33:40,033: WARNING/MainProcess]  
+[2024-06-25 20:33:40,033: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,034: WARNING/MainProcess]  
+[2024-06-25 20:33:40,035: WARNING/MainProcess]  
+[2024-06-25 20:33:40,035: WARNING/MainProcess]  
+[2024-06-25 20:33:40,035: WARNING/MainProcess]  
+[2024-06-25 20:33:40,035: WARNING/MainProcess]  
+[2024-06-25 20:33:40,036: WARNING/MainProcess]  
+[2024-06-25 20:33:40,036: WARNING/MainProcess]  
+[2024-06-25 20:33:40,036: WARNING/MainProcess]  
+[2024-06-25 20:33:40,042: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,042: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,044: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,045: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,045: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,045: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,045: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,048: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,048: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,049: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,049: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,049: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,049: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,049: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,050: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,050: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,050: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,050: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,050: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,050: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,051: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,051: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,051: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,051: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,052: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,052: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,052: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,052: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,052: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 860, in _establish_connection
+[2024-06-25 20:33:40,053: WARNING/MainProcess]     
+[2024-06-25 20:33:40,054: WARNING/MainProcess] conn = self.transport.establish_connection()
+[2024-06-25 20:33:40,054: WARNING/MainProcess]  
+[2024-06-25 20:33:40,054: WARNING/MainProcess]  
+[2024-06-25 20:33:40,054: WARNING/MainProcess]  
+[2024-06-25 20:33:40,054: WARNING/MainProcess]  
+[2024-06-25 20:33:40,057: WARNING/MainProcess]  
+[2024-06-25 20:33:40,060: WARNING/MainProcess]  
+[2024-06-25 20:33:40,061: WARNING/MainProcess]  
+[2024-06-25 20:33:40,061: WARNING/MainProcess]  
+[2024-06-25 20:33:40,062: WARNING/MainProcess]  
+[2024-06-25 20:33:40,062: WARNING/MainProcess]  
+[2024-06-25 20:33:40,062: WARNING/MainProcess]  
+[2024-06-25 20:33:40,062: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,063: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,063: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,063: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,064: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,066: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,068: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,068: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,069: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,069: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,069: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,069: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,069: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,070: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,070: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,070: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,070: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,071: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,084: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,085: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,092: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,093: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,093: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,108: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,109: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,109: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,109: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,109: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,109: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,109: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,110: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,110: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,110: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,110: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,111: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,111: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,112: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,112: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\virtual\base.py", line 975, in establish_connection
+[2024-06-25 20:33:40,114: WARNING/MainProcess]     
+[2024-06-25 20:33:40,115: WARNING/MainProcess] self._avail_channels.append(self.create_channel(self))
+[2024-06-25 20:33:40,115: WARNING/MainProcess]  
+[2024-06-25 20:33:40,116: WARNING/MainProcess]  
+[2024-06-25 20:33:40,116: WARNING/MainProcess]  
+[2024-06-25 20:33:40,116: WARNING/MainProcess]  
+[2024-06-25 20:33:40,116: WARNING/MainProcess]  
+[2024-06-25 20:33:40,146: WARNING/MainProcess]  
+[2024-06-25 20:33:40,146: WARNING/MainProcess]  
+[2024-06-25 20:33:40,147: WARNING/MainProcess]  
+[2024-06-25 20:33:40,147: WARNING/MainProcess]  
+[2024-06-25 20:33:40,147: WARNING/MainProcess]  
+[2024-06-25 20:33:40,147: WARNING/MainProcess]  
+[2024-06-25 20:33:40,147: WARNING/MainProcess]  
+[2024-06-25 20:33:40,147: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,148: WARNING/MainProcess]  
+[2024-06-25 20:33:40,149: WARNING/MainProcess]  
+[2024-06-25 20:33:40,149: WARNING/MainProcess]  
+[2024-06-25 20:33:40,149: WARNING/MainProcess]  
+[2024-06-25 20:33:40,149: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,150: WARNING/MainProcess]  
+[2024-06-25 20:33:40,151: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,151: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,151: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,151: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,151: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,152: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,152: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,152: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,152: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,152: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,152: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,153: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,154: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,154: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,154: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,154: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,154: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,154: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\virtual\base.py", line 953, in create_channel
+[2024-06-25 20:33:40,155: WARNING/MainProcess]     
+[2024-06-25 20:33:40,155: WARNING/MainProcess] channel = self.Channel(connection)
+[2024-06-25 20:33:40,155: WARNING/MainProcess]  
+[2024-06-25 20:33:40,155: WARNING/MainProcess]  
+[2024-06-25 20:33:40,155: WARNING/MainProcess]  
+[2024-06-25 20:33:40,155: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,156: WARNING/MainProcess]  
+[2024-06-25 20:33:40,157: WARNING/MainProcess]  
+[2024-06-25 20:33:40,157: WARNING/MainProcess]  
+[2024-06-25 20:33:40,157: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,157: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,157: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,158: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,179: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,180: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,180: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,180: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,180: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,180: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,181: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\transport\redis.py", line 744, in __init__
+[2024-06-25 20:33:40,184: WARNING/MainProcess]     
+[2024-06-25 20:33:40,184: WARNING/MainProcess] self.client.ping()
+[2024-06-25 20:33:40,184: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\commands\core.py", line 1217, in ping
+[2024-06-25 20:33:40,185: WARNING/MainProcess]     
+[2024-06-25 20:33:40,185: WARNING/MainProcess] return self.execute_command("PING", **kwargs)
+[2024-06-25 20:33:40,185: WARNING/MainProcess]  
+[2024-06-25 20:33:40,186: WARNING/MainProcess]  
+[2024-06-25 20:33:40,186: WARNING/MainProcess]  
+[2024-06-25 20:33:40,186: WARNING/MainProcess]  
+[2024-06-25 20:33:40,186: WARNING/MainProcess]  
+[2024-06-25 20:33:40,186: WARNING/MainProcess]  
+[2024-06-25 20:33:40,186: WARNING/MainProcess]  
+[2024-06-25 20:33:40,187: WARNING/MainProcess]  
+[2024-06-25 20:33:40,187: WARNING/MainProcess]  
+[2024-06-25 20:33:40,187: WARNING/MainProcess]  
+[2024-06-25 20:33:40,187: WARNING/MainProcess]  
+[2024-06-25 20:33:40,187: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,187: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,187: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,188: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,189: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,190: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,220: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,221: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,222: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,222: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,222: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,222: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,222: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 545, in execute_command
+[2024-06-25 20:33:40,222: WARNING/MainProcess]     
+[2024-06-25 20:33:40,222: WARNING/MainProcess] return conn.retry.call_with_retry(
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,223: WARNING/MainProcess]  
+[2024-06-25 20:33:40,240: WARNING/MainProcess]  
+[2024-06-25 20:33:40,240: WARNING/MainProcess]  
+[2024-06-25 20:33:40,240: WARNING/MainProcess]  
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,241: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,242: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,243: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\retry.py", line 46, in call_with_retry
+[2024-06-25 20:33:40,244: WARNING/MainProcess]     
+[2024-06-25 20:33:40,244: WARNING/MainProcess] return do()
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,244: WARNING/MainProcess]  
+[2024-06-25 20:33:40,245: WARNING/MainProcess]  
+[2024-06-25 20:33:40,245: WARNING/MainProcess]  
+[2024-06-25 20:33:40,245: WARNING/MainProcess]  
+[2024-06-25 20:33:40,245: WARNING/MainProcess]  
+[2024-06-25 20:33:40,245: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,245: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,245: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,245: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,245: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 546, in <lambda>
+[2024-06-25 20:33:40,247: WARNING/MainProcess]     
+[2024-06-25 20:33:40,247: WARNING/MainProcess] lambda: self._send_command_parse_response(
+[2024-06-25 20:33:40,247: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,248: WARNING/MainProcess]  
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,249: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,250: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,251: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,252: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 522, in _send_command_parse_response
+[2024-06-25 20:33:40,253: WARNING/MainProcess]     
+[2024-06-25 20:33:40,253: WARNING/MainProcess] return self.parse_response(conn, command_name, **options)
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,253: WARNING/MainProcess]  
+[2024-06-25 20:33:40,254: WARNING/MainProcess]  
+[2024-06-25 20:33:40,254: WARNING/MainProcess]  
+[2024-06-25 20:33:40,254: WARNING/MainProcess]  
+[2024-06-25 20:33:40,254: WARNING/MainProcess]  
+[2024-06-25 20:33:40,254: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,255: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,255: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,255: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,255: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,255: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,255: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,256: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,257: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,257: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,257: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,257: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,257: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,257: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,258: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,259: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,260: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,260: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,260: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,260: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,260: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,260: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,261: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,262: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,262: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,262: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\client.py", line 562, in parse_response
+[2024-06-25 20:33:40,262: WARNING/MainProcess]     
+[2024-06-25 20:33:40,287: WARNING/MainProcess] response = connection.read_response()
+[2024-06-25 20:33:40,287: WARNING/MainProcess]  
+[2024-06-25 20:33:40,287: WARNING/MainProcess]  
+[2024-06-25 20:33:40,287: WARNING/MainProcess]  
+[2024-06-25 20:33:40,288: WARNING/MainProcess]  
+[2024-06-25 20:33:40,288: WARNING/MainProcess]  
+[2024-06-25 20:33:40,288: WARNING/MainProcess]  
+[2024-06-25 20:33:40,288: WARNING/MainProcess]  
+[2024-06-25 20:33:40,288: WARNING/MainProcess]  
+[2024-06-25 20:33:40,288: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess]  
+[2024-06-25 20:33:40,289: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,289: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,289: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,289: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,290: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,291: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,292: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,293: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,294: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,294: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,294: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,294: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\redis\connection.py", line 536, in read_response
+[2024-06-25 20:33:40,294: WARNING/MainProcess]     
+[2024-06-25 20:33:40,294: WARNING/MainProcess] raise response
+[2024-06-25 20:33:40,294: WARNING/MainProcess] redis.exceptions
+[2024-06-25 20:33:40,295: WARNING/MainProcess] .
+[2024-06-25 20:33:40,295: WARNING/MainProcess] ResponseError
+[2024-06-25 20:33:40,295: WARNING/MainProcess] : 
+[2024-06-25 20:33:40,295: WARNING/MainProcess] MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+[2024-06-25 20:33:40,295: WARNING/MainProcess] During handling of the above exception, another exception occurred:
+[2024-06-25 20:33:40,295: WARNING/MainProcess] Traceback (most recent call last):
+[2024-06-25 20:33:40,295: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 472, in _reraise_as_library_errors
+[2024-06-25 20:33:40,295: WARNING/MainProcess]     
+[2024-06-25 20:33:40,296: WARNING/MainProcess] yield
+[2024-06-25 20:33:40,296: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 459, in _ensure_connection
+[2024-06-25 20:33:40,296: WARNING/MainProcess]     
+[2024-06-25 20:33:40,296: WARNING/MainProcess] return retry_over_time(
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess]  
+[2024-06-25 20:33:40,297: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,298: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,299: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,299: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,299: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,299: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,299: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,299: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\utils\functional.py", line 332, in retry_over_time
+[2024-06-25 20:33:40,299: WARNING/MainProcess]     
+[2024-06-25 20:33:40,299: WARNING/MainProcess] sleep(1.0)
+[2024-06-25 20:33:40,299: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\apps\beat.py", line 158, in _sync
+[2024-06-25 20:33:40,301: WARNING/MainProcess]     
+[2024-06-25 20:33:40,301: WARNING/MainProcess] service.sync()
+[2024-06-25 20:33:40,302: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 656, in sync
+[2024-06-25 20:33:40,302: WARNING/MainProcess]     
+[2024-06-25 20:33:40,303: WARNING/MainProcess] self.scheduler.close()
+[2024-06-25 20:33:40,303: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 603, in close
+[2024-06-25 20:33:40,303: WARNING/MainProcess]     
+[2024-06-25 20:33:40,303: WARNING/MainProcess] self._store.close()
+[2024-06-25 20:33:40,303: WARNING/MainProcess]   File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\shelve.py", line 146, in close
+[2024-06-25 20:33:40,304: WARNING/MainProcess]     
+[2024-06-25 20:33:40,305: WARNING/MainProcess] self.dict.close()
+[2024-06-25 20:33:40,305: WARNING/MainProcess]   File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\dbm\dumb.py", line 275, in close
+[2024-06-25 20:33:40,306: WARNING/MainProcess]     
+[2024-06-25 20:33:40,306: WARNING/MainProcess] self._commit()
+[2024-06-25 20:33:40,306: WARNING/MainProcess]   File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\dbm\dumb.py", line 130, in _commit
+[2024-06-25 20:33:40,307: WARNING/MainProcess]     
+[2024-06-25 20:33:40,307: WARNING/MainProcess] with self._io.open(self._dirfile, 'w', encoding="Latin-1") as f:
+[2024-06-25 20:33:40,307: WARNING/MainProcess]  
+[2024-06-25 20:33:40,332: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess]  
+[2024-06-25 20:33:40,333: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,333: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,333: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,333: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,333: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,334: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,335: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,336: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,337: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,338: WARNING/MainProcess] PermissionError
+[2024-06-25 20:33:40,338: WARNING/MainProcess] : 
+[2024-06-25 20:33:40,338: WARNING/MainProcess] [Errno 13] Permission denied: b'celerybeat-schedule.dir'
+[2024-06-25 20:33:40,338: WARNING/MainProcess] The above exception was the direct cause of the following exception:
+[2024-06-25 20:33:40,338: WARNING/MainProcess] Traceback (most recent call last):
+[2024-06-25 20:33:40,339: WARNING/MainProcess]   File "<frozen runpy>", line 198, in _run_module_as_main
+[2024-06-25 20:33:40,339: WARNING/MainProcess]   File "<frozen runpy>", line 88, in _run_code
+[2024-06-25 20:33:40,340: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Scripts\celery.exe\__main__.py", line 7, in <module>
+[2024-06-25 20:33:40,343: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\__main__.py", line 15, in main
+[2024-06-25 20:33:40,344: WARNING/MainProcess]     
+[2024-06-25 20:33:40,344: WARNING/MainProcess] sys.exit(_main())
+[2024-06-25 20:33:40,344: WARNING/MainProcess]  
+[2024-06-25 20:33:40,344: WARNING/MainProcess]  
+[2024-06-25 20:33:40,344: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,345: WARNING/MainProcess]  
+[2024-06-25 20:33:40,346: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,346: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,346: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,346: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,347: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,347: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,347: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,347: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\bin\celery.py", line 236, in main
+[2024-06-25 20:33:40,349: WARNING/MainProcess]     
+[2024-06-25 20:33:40,349: WARNING/MainProcess] return celery(auto_envvar_prefix="CELERY")
+[2024-06-25 20:33:40,349: WARNING/MainProcess]  
+[2024-06-25 20:33:40,349: WARNING/MainProcess]  
+[2024-06-25 20:33:40,350: WARNING/MainProcess]  
+[2024-06-25 20:33:40,350: WARNING/MainProcess]  
+[2024-06-25 20:33:40,350: WARNING/MainProcess]  
+[2024-06-25 20:33:40,350: WARNING/MainProcess]  
+[2024-06-25 20:33:40,350: WARNING/MainProcess]  
+[2024-06-25 20:33:40,351: WARNING/MainProcess]  
+[2024-06-25 20:33:40,351: WARNING/MainProcess]  
+[2024-06-25 20:33:40,351: WARNING/MainProcess]  
+[2024-06-25 20:33:40,351: WARNING/MainProcess]  
+[2024-06-25 20:33:40,351: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,351: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,351: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,351: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,352: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,352: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,352: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,352: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,352: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,352: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,353: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,353: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,353: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,353: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,353: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,353: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,354: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,355: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,356: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,356: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,356: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,356: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,356: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,356: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\click\core.py", line 1157, in __call__
+[2024-06-25 20:33:40,377: WARNING/MainProcess]     
+[2024-06-25 20:33:40,377: WARNING/MainProcess] return self.main(*args, **kwargs)
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,378: WARNING/MainProcess]  
+[2024-06-25 20:33:40,379: WARNING/MainProcess]  
+[2024-06-25 20:33:40,379: WARNING/MainProcess]  
+[2024-06-25 20:33:40,379: WARNING/MainProcess]  
+[2024-06-25 20:33:40,379: WARNING/MainProcess]  
+[2024-06-25 20:33:40,379: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,379: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,380: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,381: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,382: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,382: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,382: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,382: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,382: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,382: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\click\core.py", line 1078, in main
+[2024-06-25 20:33:40,383: WARNING/MainProcess]     
+[2024-06-25 20:33:40,403: WARNING/MainProcess] rv = self.invoke(ctx)
+[2024-06-25 20:33:40,403: WARNING/MainProcess]  
+[2024-06-25 20:33:40,404: WARNING/MainProcess]  
+[2024-06-25 20:33:40,404: WARNING/MainProcess]  
+[2024-06-25 20:33:40,404: WARNING/MainProcess]  
+[2024-06-25 20:33:40,404: WARNING/MainProcess]  
+[2024-06-25 20:33:40,404: WARNING/MainProcess]  
+[2024-06-25 20:33:40,404: WARNING/MainProcess]  
+[2024-06-25 20:33:40,405: WARNING/MainProcess]  
+[2024-06-25 20:33:40,405: WARNING/MainProcess]  
+[2024-06-25 20:33:40,405: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,405: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,405: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,405: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,406: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,407: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,407: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,407: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,408: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,408: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,408: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\click\core.py", line 1688, in invoke
+[2024-06-25 20:33:40,409: WARNING/MainProcess]     
+[2024-06-25 20:33:40,409: WARNING/MainProcess] return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2024-06-25 20:33:40,409: WARNING/MainProcess]  
+[2024-06-25 20:33:40,410: WARNING/MainProcess]  
+[2024-06-25 20:33:40,410: WARNING/MainProcess]  
+[2024-06-25 20:33:40,410: WARNING/MainProcess]  
+[2024-06-25 20:33:40,410: WARNING/MainProcess]  
+[2024-06-25 20:33:40,410: WARNING/MainProcess]  
+[2024-06-25 20:33:40,410: WARNING/MainProcess]  
+[2024-06-25 20:33:40,411: WARNING/MainProcess]  
+[2024-06-25 20:33:40,411: WARNING/MainProcess]  
+[2024-06-25 20:33:40,411: WARNING/MainProcess]  
+[2024-06-25 20:33:40,411: WARNING/MainProcess]  
+[2024-06-25 20:33:40,411: WARNING/MainProcess]  
+[2024-06-25 20:33:40,411: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,412: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,413: WARNING/MainProcess]  
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,414: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,415: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,416: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,417: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,418: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,418: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,418: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\click\core.py", line 1434, in invoke
+[2024-06-25 20:33:40,418: WARNING/MainProcess]     
+[2024-06-25 20:33:40,419: WARNING/MainProcess] return ctx.invoke(self.callback, **ctx.params)
+[2024-06-25 20:33:40,419: WARNING/MainProcess]  
+[2024-06-25 20:33:40,419: WARNING/MainProcess]  
+[2024-06-25 20:33:40,419: WARNING/MainProcess]  
+[2024-06-25 20:33:40,419: WARNING/MainProcess]  
+[2024-06-25 20:33:40,419: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess]  
+[2024-06-25 20:33:40,420: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,421: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,422: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,422: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,422: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,422: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,422: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,422: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,423: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,423: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,423: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,423: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,423: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,423: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,424: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,424: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,424: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,425: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,426: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,427: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,427: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,427: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,427: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,427: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,427: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,428: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\click\core.py", line 783, in invoke
+[2024-06-25 20:33:40,429: WARNING/MainProcess]     
+[2024-06-25 20:33:40,429: WARNING/MainProcess] return __callback(*args, **kwargs)
+[2024-06-25 20:33:40,429: WARNING/MainProcess]  
+[2024-06-25 20:33:40,429: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess]  
+[2024-06-25 20:33:40,430: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,430: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,431: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,431: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,431: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,432: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,432: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,432: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,432: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,432: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,433: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,433: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,433: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,433: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,433: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,433: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,434: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,434: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,434: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,434: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,434: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,435: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,435: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,435: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,435: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,435: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,435: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,436: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\click\decorators.py", line 33, in new_func
+[2024-06-25 20:33:40,513: WARNING/MainProcess]     
+[2024-06-25 20:33:40,513: WARNING/MainProcess] return f(get_current_context(), *args, **kwargs)
+[2024-06-25 20:33:40,513: WARNING/MainProcess]  
+[2024-06-25 20:33:40,515: WARNING/MainProcess]  
+[2024-06-25 20:33:40,515: WARNING/MainProcess]  
+[2024-06-25 20:33:40,515: WARNING/MainProcess]  
+[2024-06-25 20:33:40,515: WARNING/MainProcess]  
+[2024-06-25 20:33:40,515: WARNING/MainProcess]  
+[2024-06-25 20:33:40,515: WARNING/MainProcess]  
+[2024-06-25 20:33:40,516: WARNING/MainProcess]  
+[2024-06-25 20:33:40,516: WARNING/MainProcess]  
+[2024-06-25 20:33:40,516: WARNING/MainProcess]  
+[2024-06-25 20:33:40,517: WARNING/MainProcess]  
+[2024-06-25 20:33:40,517: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,518: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,519: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,520: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,520: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,520: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,520: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,520: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,521: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,521: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,521: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,521: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,521: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,522: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,522: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,522: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,522: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,522: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,523: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,523: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,523: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,523: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,523: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,523: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,524: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,524: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,524: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\bin\base.py", line 135, in caller
+[2024-06-25 20:33:40,539: WARNING/MainProcess]     
+[2024-06-25 20:33:40,539: WARNING/MainProcess] return f(ctx, *args, **kwargs)
+[2024-06-25 20:33:40,540: WARNING/MainProcess]  
+[2024-06-25 20:33:40,540: WARNING/MainProcess]  
+[2024-06-25 20:33:40,540: WARNING/MainProcess]  
+[2024-06-25 20:33:40,540: WARNING/MainProcess]  
+[2024-06-25 20:33:40,540: WARNING/MainProcess]  
+[2024-06-25 20:33:40,540: WARNING/MainProcess]  
+[2024-06-25 20:33:40,541: WARNING/MainProcess]  
+[2024-06-25 20:33:40,541: WARNING/MainProcess]  
+[2024-06-25 20:33:40,541: WARNING/MainProcess]  
+[2024-06-25 20:33:40,541: WARNING/MainProcess]  
+[2024-06-25 20:33:40,541: WARNING/MainProcess]  
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,542: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,543: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,543: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,543: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,543: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,543: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,543: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,544: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,544: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,545: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,545: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,545: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,545: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,546: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,546: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,546: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,546: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,546: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\bin\beat.py", line 72, in beat
+[2024-06-25 20:33:40,601: WARNING/MainProcess]     
+[2024-06-25 20:33:40,602: WARNING/MainProcess] return beat().run()
+[2024-06-25 20:33:40,602: WARNING/MainProcess]  
+[2024-06-25 20:33:40,602: WARNING/MainProcess]  
+[2024-06-25 20:33:40,602: WARNING/MainProcess]  
+[2024-06-25 20:33:40,603: WARNING/MainProcess]  
+[2024-06-25 20:33:40,603: WARNING/MainProcess]  
+[2024-06-25 20:33:40,603: WARNING/MainProcess]  
+[2024-06-25 20:33:40,603: WARNING/MainProcess]  
+[2024-06-25 20:33:40,603: WARNING/MainProcess]  
+[2024-06-25 20:33:40,603: WARNING/MainProcess]  
+[2024-06-25 20:33:40,604: WARNING/MainProcess]  
+[2024-06-25 20:33:40,604: WARNING/MainProcess]  
+[2024-06-25 20:33:40,604: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,604: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,604: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,604: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,605: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,606: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,606: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\apps\beat.py", line 84, in run
+[2024-06-25 20:33:40,606: WARNING/MainProcess]     
+[2024-06-25 20:33:40,606: WARNING/MainProcess] self.start_scheduler()
+[2024-06-25 20:33:40,607: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\apps\beat.py", line 113, in start_scheduler
+[2024-06-25 20:33:40,607: WARNING/MainProcess]     
+[2024-06-25 20:33:40,607: WARNING/MainProcess] service.start()
+[2024-06-25 20:33:40,607: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 643, in start
+[2024-06-25 20:33:40,608: WARNING/MainProcess]     
+[2024-06-25 20:33:40,608: WARNING/MainProcess] interval = self.scheduler.tick()
+[2024-06-25 20:33:40,608: WARNING/MainProcess]  
+[2024-06-25 20:33:40,608: WARNING/MainProcess]  
+[2024-06-25 20:33:40,608: WARNING/MainProcess]  
+[2024-06-25 20:33:40,608: WARNING/MainProcess]  
+[2024-06-25 20:33:40,608: WARNING/MainProcess]  
+[2024-06-25 20:33:40,608: WARNING/MainProcess]  
+[2024-06-25 20:33:40,609: WARNING/MainProcess]  
+[2024-06-25 20:33:40,609: WARNING/MainProcess]  
+[2024-06-25 20:33:40,609: WARNING/MainProcess]  
+[2024-06-25 20:33:40,609: WARNING/MainProcess]  
+[2024-06-25 20:33:40,609: WARNING/MainProcess]  
+[2024-06-25 20:33:40,609: WARNING/MainProcess]  
+[2024-06-25 20:33:40,610: WARNING/MainProcess]  
+[2024-06-25 20:33:40,610: WARNING/MainProcess]  
+[2024-06-25 20:33:40,610: WARNING/MainProcess]  
+[2024-06-25 20:33:40,610: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,610: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,610: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,610: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,650: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,650: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,651: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,652: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,652: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,653: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,653: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,697: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,697: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,697: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,697: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,698: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 353, in tick
+[2024-06-25 20:33:40,699: WARNING/MainProcess]     
+[2024-06-25 20:33:40,699: WARNING/MainProcess] self.apply_entry(entry, producer=self.producer)
+[2024-06-25 20:33:40,699: WARNING/MainProcess]  
+[2024-06-25 20:33:40,699: WARNING/MainProcess]  
+[2024-06-25 20:33:40,699: WARNING/MainProcess]  
+[2024-06-25 20:33:40,699: WARNING/MainProcess]  
+[2024-06-25 20:33:40,700: WARNING/MainProcess]  
+[2024-06-25 20:33:40,732: WARNING/MainProcess]  
+[2024-06-25 20:33:40,732: WARNING/MainProcess]  
+[2024-06-25 20:33:40,733: WARNING/MainProcess]  
+[2024-06-25 20:33:40,733: WARNING/MainProcess]  
+[2024-06-25 20:33:40,733: WARNING/MainProcess]  
+[2024-06-25 20:33:40,733: WARNING/MainProcess]  
+[2024-06-25 20:33:40,733: WARNING/MainProcess]  
+[2024-06-25 20:33:40,733: WARNING/MainProcess]  
+[2024-06-25 20:33:40,756: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,757: WARNING/MainProcess]  
+[2024-06-25 20:33:40,758: WARNING/MainProcess]  
+[2024-06-25 20:33:40,758: WARNING/MainProcess]  
+[2024-06-25 20:33:40,758: WARNING/MainProcess]  
+[2024-06-25 20:33:40,758: WARNING/MainProcess]  
+[2024-06-25 20:33:40,758: WARNING/MainProcess]  
+[2024-06-25 20:33:40,759: WARNING/MainProcess]  
+[2024-06-25 20:33:40,774: WARNING/MainProcess]  
+[2024-06-25 20:33:40,777: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess]  
+[2024-06-25 20:33:40,778: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,779: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,779: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,779: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,779: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,779: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,779: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,780: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\utils\objects.py", line 40, in __get__
+[2024-06-25 20:33:40,781: WARNING/MainProcess]     
+[2024-06-25 20:33:40,781: WARNING/MainProcess] return super().__get__(instance, owner)
+[2024-06-25 20:33:40,781: WARNING/MainProcess]  
+[2024-06-25 20:33:40,781: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,782: WARNING/MainProcess]  
+[2024-06-25 20:33:40,783: WARNING/MainProcess]  
+[2024-06-25 20:33:40,783: WARNING/MainProcess]  
+[2024-06-25 20:33:40,783: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,783: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,783: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,783: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,783: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,784: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,785: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,786: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,787: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,787: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,787: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,787: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,787: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,787: WARNING/MainProcess]   File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\functools.py", line 1001, in __get__
+[2024-06-25 20:33:40,788: WARNING/MainProcess]     
+[2024-06-25 20:33:40,788: WARNING/MainProcess] val = self.func(instance)
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,789: WARNING/MainProcess]  
+[2024-06-25 20:33:40,790: WARNING/MainProcess]  
+[2024-06-25 20:33:40,790: WARNING/MainProcess]  
+[2024-06-25 20:33:40,790: WARNING/MainProcess]  
+[2024-06-25 20:33:40,790: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,790: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,790: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,790: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,791: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,792: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,793: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,793: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 496, in producer
+[2024-06-25 20:33:40,793: WARNING/MainProcess]     
+[2024-06-25 20:33:40,793: WARNING/MainProcess] return self.Producer(self._ensure_connected(), auto_declare=False)
+[2024-06-25 20:33:40,793: WARNING/MainProcess]  
+[2024-06-25 20:33:40,794: WARNING/MainProcess]  
+[2024-06-25 20:33:40,794: WARNING/MainProcess]  
+[2024-06-25 20:33:40,794: WARNING/MainProcess]  
+[2024-06-25 20:33:40,794: WARNING/MainProcess]  
+[2024-06-25 20:33:40,794: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,795: WARNING/MainProcess]  
+[2024-06-25 20:33:40,796: WARNING/MainProcess]  
+[2024-06-25 20:33:40,796: WARNING/MainProcess]  
+[2024-06-25 20:33:40,796: WARNING/MainProcess]  
+[2024-06-25 20:33:40,796: WARNING/MainProcess]  
+[2024-06-25 20:33:40,796: WARNING/MainProcess]  
+[2024-06-25 20:33:40,796: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess]  
+[2024-06-25 20:33:40,797: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,798: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,799: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,799: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,799: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,811: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,811: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,812: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,812: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,812: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,812: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,812: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,813: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,813: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,813: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,813: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,813: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,813: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,814: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\beat.py", line 479, in _ensure_connected
+[2024-06-25 20:33:40,815: WARNING/MainProcess]     
+[2024-06-25 20:33:40,815: WARNING/MainProcess] return self.connection.ensure_connection(
+[2024-06-25 20:33:40,815: WARNING/MainProcess]  
+[2024-06-25 20:33:40,815: WARNING/MainProcess]  
+[2024-06-25 20:33:40,815: WARNING/MainProcess]  
+[2024-06-25 20:33:40,835: WARNING/MainProcess]  
+[2024-06-25 20:33:40,837: WARNING/MainProcess]  
+[2024-06-25 20:33:40,837: WARNING/MainProcess]  
+[2024-06-25 20:33:40,837: WARNING/MainProcess]  
+[2024-06-25 20:33:40,837: WARNING/MainProcess]  
+[2024-06-25 20:33:40,837: WARNING/MainProcess]  
+[2024-06-25 20:33:40,837: WARNING/MainProcess]  
+[2024-06-25 20:33:40,838: WARNING/MainProcess]  
+[2024-06-25 20:33:40,838: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,838: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,838: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,838: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,838: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,838: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,839: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,839: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,839: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,839: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,839: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,840: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,840: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,840: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,840: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,840: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,840: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,841: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,841: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,841: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,841: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,841: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,842: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,842: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,842: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,842: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,842: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,842: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,843: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,843: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,843: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,843: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,843: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,843: WARNING/MainProcess] ^
+[2024-06-25 20:33:40,844: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 406, in ensure_connection
+[2024-06-25 20:33:40,844: WARNING/MainProcess]     
+[2024-06-25 20:33:40,844: WARNING/MainProcess] self._ensure_connection(*args, **kwargs)
+[2024-06-25 20:33:40,844: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 458, in _ensure_connection
+[2024-06-25 20:33:40,845: WARNING/MainProcess]     
+[2024-06-25 20:33:40,845: WARNING/MainProcess] with ctx():
+[2024-06-25 20:33:40,845: WARNING/MainProcess]   File "C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\contextlib.py", line 158, in __exit__
+[2024-06-25 20:33:40,845: WARNING/MainProcess]     
+[2024-06-25 20:33:40,845: WARNING/MainProcess] self.gen.throw(typ, value, traceback)
+[2024-06-25 20:33:40,846: WARNING/MainProcess]   File "C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\kombu\connection.py", line 476, in _reraise_as_library_errors
+[2024-06-25 20:33:40,846: WARNING/MainProcess]     
+[2024-06-25 20:33:40,846: WARNING/MainProcess] raise ConnectionError(str(exc)) from exc
+[2024-06-25 20:33:40,846: WARNING/MainProcess] kombu.exceptions
+[2024-06-25 20:33:40,847: WARNING/MainProcess] .
+[2024-06-25 20:33:40,847: WARNING/MainProcess] OperationalError
+[2024-06-25 20:33:40,847: WARNING/MainProcess] : 
+[2024-06-25 20:33:40,858: WARNING/MainProcess] [Errno 13] Permission denied: b'celerybeat-schedule.dir'

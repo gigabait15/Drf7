@@ -1,0 +1,756 @@
+[2024-06-25 20:19:46,720: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:46,725: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:48,739: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:49,206: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:49,210: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:50,160: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:50,164: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:50,917: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:50,935: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:51,227: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:51,823: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:51,843: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:51,974: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:51,995: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:52,180: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:52,751: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:19:52,945: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:53,067: WARNING/MainProcess] C:\Users\admin\PycharmProjects\DRF7\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 20:19:53,085: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 2.00 seconds... (1/100)
+
+[2024-06-25 20:19:53,852: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:54,005: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:55,091: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 4.00 seconds... (2/100)
+
+[2024-06-25 20:19:55,234: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:19:56,213: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:19:56,952: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:19:57,859: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:19:58,016: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:19:58,761: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:19:59,100: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 6.00 seconds... (3/100)
+
+[2024-06-25 20:20:01,242: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:20:02,239: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:20:02,960: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:20:03,866: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:20:04,026: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:20:05,108: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 8.00 seconds... (4/100)
+
+[2024-06-25 20:20:06,770: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:09,250: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:10,268: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:10,968: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:11,876: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:12,033: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:13,118: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 10.00 seconds... (5/100)
+
+[2024-06-25 20:20:16,808: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:19,268: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:20,290: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:20,983: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:21,890: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:22,046: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:23,133: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 12.00 seconds... (6/100)
+
+[2024-06-25 20:20:28,821: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:31,284: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:32,307: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:32,994: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:33,903: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:34,059: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:35,146: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 14.00 seconds... (7/100)
+
+[2024-06-25 20:20:42,835: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:45,298: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:46,325: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:47,008: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:47,918: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:48,073: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:49,159: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 16.00 seconds... (8/100)
+
+[2024-06-25 20:20:58,850: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:01,314: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:02,363: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:03,023: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:03,934: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:04,090: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:05,172: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 18.00 seconds... (9/100)
+
+[2024-06-25 20:21:16,869: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:19,331: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:20,378: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:21,041: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:21,951: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:22,104: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:23,186: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 20.00 seconds... (10/100)
+
+[2024-06-25 20:21:36,884: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:39,347: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:40,398: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:41,070: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:41,967: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:42,217: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:43,199: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 22.00 seconds... (11/100)
+
+[2024-06-25 20:21:58,902: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:01,369: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:02,416: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:03,115: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:03,985: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:04,236: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:05,214: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 24.00 seconds... (12/100)
+
+[2024-06-25 20:22:22,921: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:25,386: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:26,458: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:27,136: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:28,002: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:28,254: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:29,234: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 26.00 seconds... (13/100)
+
+[2024-06-25 20:22:48,940: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:22:51,406: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:22:52,482: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:22:53,156: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:22:54,042: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:22:54,276: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:22:55,254: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 28.00 seconds... (14/100)
+
+[2024-06-25 20:23:16,961: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:19,430: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:20,504: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:21,201: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:22,080: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:22,332: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:23,295: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 30.00 seconds... (15/100)
+
+[2024-06-25 20:23:46,984: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:23:49,730: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:23:50,689: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:23:51,225: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:23:52,103: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:23:52,353: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:23:53,319: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:19,007: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:21,753: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:22,716: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:23,244: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:24,127: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:24,377: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:25,344: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:51,295: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:53,779: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:54,740: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:55,284: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:56,150: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:56,402: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:24:57,368: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:23,321: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:25,800: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:26,763: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:27,323: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:28,177: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:28,427: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:29,395: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:55,348: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:57,827: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:58,787: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:25:59,343: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:00,199: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:00,453: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:01,418: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:27,374: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:29,851: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:30,811: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:31,368: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:32,226: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:32,477: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:33,447: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:26:59,397: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:01,883: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:02,831: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:03,390: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:04,252: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:04,497: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:05,471: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:31,422: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:33,906: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:34,854: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:35,420: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:36,280: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:36,523: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:27:37,497: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:03,448: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:05,930: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:06,876: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:07,442: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:08,302: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:08,546: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:09,521: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:35,474: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:37,961: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:38,900: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:39,470: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:40,329: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:40,570: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:28:41,549: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:07,496: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:09,986: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:10,927: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:11,495: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:12,371: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:12,594: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:13,744: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:39,520: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:42,009: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:42,955: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:43,519: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:44,398: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:44,617: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:29:45,767: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:11,544: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:14,032: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:14,979: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:15,540: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:16,423: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:16,640: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:17,793: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:43,571: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:46,058: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:47,002: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:47,567: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:48,449: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:48,664: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:30:49,819: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:15,597: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:18,079: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:19,024: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:19,996: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:20,657: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:20,966: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:22,287: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:47,625: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:50,104: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:51,047: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:52,022: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:52,682: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:53,006: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:31:54,308: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:19,653: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:22,125: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:23,070: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:24,048: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:24,703: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:25,028: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:26,335: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:51,677: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:54,147: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:55,093: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:56,068: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:56,723: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:57,051: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:32:58,358: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:23,694: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:26,173: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:27,117: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:28,096: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:28,747: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:29,067: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
+[2024-06-25 20:33:30,374: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/0: MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error..
+Trying again in 32.00 seconds... (16/100)
+
