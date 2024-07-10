@@ -1,0 +1,13 @@
+[Unit]
+Description=gunicorn daemon for Your Project # Описание вашего сервиса
+After=network.target
+
+[Service]
+User=yourusername # Имя пользователя владельца проекта в Linux
+Group=yourgroupname # Группа, к которой относится пользователь
+WorkingDirectory=/path/to/your/project # Путь к рабочей директории проекта
+ExecStart=/path/to/venv/bin/gunicorn --config /path/to/gunicorn_config.py your_project.wsgi:application
+# Команда для запуска проекта
+
+[Install]
+WantedBy=multi-user.target # Ожидание запуска системы в нормальном состоянии доступа для пользователей
