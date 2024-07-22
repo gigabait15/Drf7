@@ -95,9 +95,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'drf7',
-        'USER': 'postgres',
-        'PASSWORD': '1234',
-        'HOST': 'localhost',
+        'USER': os.getenv('POSTGRES_USER'),
+        'PASSWORD': os.getenv('POSTGRES_PASSWORD'),
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
@@ -185,9 +185,8 @@ if CACHE_ENABLED:
         }
     }
 
-CELERY_BROKER_URL = 'redis://localhost:6379/0'
-# CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
-CELERY_RESULT_BACKEND = 'django-db'
+CELERY_BROKER_URL = 'redis://redis:6379'
+CELERY_RESULT_BACKEND = 'redis://redis:6379'
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'
@@ -216,3 +215,8 @@ EMAIL_HOST_PASSWORD = "kbrnpauvjwqfjxsa"
 NULLABLE = {'blank': True, 'null': True}
 
 TELEGRAM_API = '6674649763:AAG_6TeV2T4OYqX9JhyBIThZ6sNAiYXJnlE'
+
+
+# gunicorn @ git+https://github.com/benoitc/gunicorn.git@79b9a52cc8cd664f77d43efe173291a5397df130
+# psycopg2==2.9.9
+# pywin32==306
